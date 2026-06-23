@@ -15,7 +15,7 @@ spec:
       selfHeal: true
       allowEmpty: false
   source:
-    repoURL: https://stefanprodan.github.io/podinfo
+    repoURL: https://github.com/okuok-.keiko-3m7/personalaccesstokenok.git
     targetRevision: 5.2.1
     chart: podinfo
     helm:
